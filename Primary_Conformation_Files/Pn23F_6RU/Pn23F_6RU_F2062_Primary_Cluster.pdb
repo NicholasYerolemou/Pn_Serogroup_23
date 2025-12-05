@@ -1,0 +1,587 @@
+CRYST1   78.202   78.202   78.202  90.00  90.00  90.00 P 1           1
+ATOM      1  C1  BRHMC   1      28.560   5.516  -6.926  0.00  0.00      CARB  
+ATOM      2  H1  BRHMC   1      29.412   4.811  -6.989  0.00  0.00      CARB  
+ATOM      3  O1  BRHMC   1      29.019   6.827  -6.878  0.00  0.00      CARB  
+ATOM      4  HO1 BRHMC   1      28.445   7.326  -7.472  0.00  0.00      CARB  
+ATOM      5  C5  BRHMC   1      27.388   3.783  -5.763  0.00  0.00      CARB  
+ATOM      6  H5  BRHMC   1      28.346   3.243  -5.655  0.00  0.00      CARB  
+ATOM      7  O5  BRHMC   1      27.684   5.182  -5.815  0.00  0.00      CARB  
+ATOM      8  C2  BRHMC   1      27.683   5.264  -8.227  0.00  0.00      CARB  
+ATOM      9  H2  BRHMC   1      28.314   5.380  -9.111  0.00  0.00      CARB  
+ATOM     10  O2  BRHMC   1      26.551   6.143  -8.397  0.00  0.00      CARB  
+ATOM     11  HO2 BRHMC   1      26.049   5.868  -9.173  0.00  0.00      CARB  
+ATOM     12  C3  BRHMC   1      27.362   3.695  -8.137  0.00  0.00      CARB  
+ATOM     13  H3  BRHMC   1      28.341   3.181  -8.089  0.00  0.00      CARB  
+ATOM     14  O3  BRHMC   1      26.704   3.309  -9.388  0.00  0.00      CARB  
+ATOM     15  HO3 BRHMC   1      25.901   3.820  -9.665  0.00  0.00      CARB  
+ATOM     16  C4  BRHMC   1      26.551   3.376  -6.908  0.00  0.00      CARB  
+ATOM     17  H4  BRHMC   1      25.576   3.931  -6.940  0.00  0.00      CARB  
+ATOM     18  O4  BRHMC   1      26.264   1.959  -6.768  0.00  0.00      CARB  
+ATOM     19  C6  BRHMC   1      26.733   3.535  -4.377  0.00  0.00      CARB  
+ATOM     20  H61 BRHMC   1      25.911   4.336  -4.242  0.00  0.00      CARB  
+ATOM     21  H62 BRHMC   1      27.378   3.810  -3.467  0.00  0.00      CARB  
+ATOM     22  H63 BRHMC   1      26.393   2.518  -4.363  0.00  0.00      CARB  
+ATOM     23  C1  BGALC   2      24.960   1.723  -7.208  0.00  0.00      CARB  
+ATOM     24  H1  BGALC   2      24.717   2.239  -8.184  0.00  0.00      CARB  
+ATOM     25  C5  BGALC   2      22.717   1.970  -6.464  0.00  0.00      CARB  
+ATOM     26  H5  BGALC   2      22.602   2.371  -7.515  0.00  0.00      CARB  
+ATOM     27  O5  BGALC   2      24.114   2.199  -6.177  0.00  0.00      CARB  
+ATOM     28  C2  BGALC   2      24.807   0.187  -7.271  0.00  0.00      CARB  
+ATOM     29  H2  BGALC   2      25.065  -0.184  -6.278  0.00  0.00      CARB  
+ATOM     30  O2  BGALC   2      25.578  -0.395  -8.288  0.00  0.00      CARB  
+ATOM     31  C3  BGALC   2      23.323  -0.125  -7.506  0.00  0.00      CARB  
+ATOM     32  H3  BGALC   2      23.014   0.370  -8.466  0.00  0.00      CARB  
+ATOM     33  O3  BGALC   2      23.278  -1.551  -7.547  0.00  0.00      CARB  
+ATOM     34  C4  BGALC   2      22.446   0.506  -6.433  0.00  0.00      CARB  
+ATOM     35  H4  BGALC   2      21.381   0.309  -6.688  0.00  0.00      CARB  
+ATOM     36  O4  BGALC   2      22.752   0.017  -5.160  0.00  0.00      CARB  
+ATOM     37  C6  BGALC   2      21.851   2.717  -5.518  0.00  0.00      CARB  
+ATOM     38  H61 BGALC   2      20.710   2.606  -5.762  0.00  0.00      CARB  
+ATOM     39  H62 BGALC   2      22.082   3.804  -5.594  0.00  0.00      CARB  
+ATOM     40  O6  BGALC   2      22.095   2.393  -4.182  0.00  0.00      CARB  
+ATOM     41  HO6 BGALC   2      21.754   1.503  -3.990  0.00  0.00      CARB  
+ATOM     42  C1  ARHMC   3      26.356  -1.469  -7.826  0.00  0.00      CARB  
+ATOM     43  H1  ARHMC   3      25.705  -2.049  -7.147  0.00  0.00      CARB  
+ATOM     44  C5  ARHMC   3      28.243  -0.160  -7.781  0.00  0.00      CARB  
+ATOM     45  H5  ARHMC   3      27.635   0.614  -8.284  0.00  0.00      CARB  
+ATOM     46  O5  ARHMC   3      27.497  -1.097  -6.978  0.00  0.00      CARB  
+ATOM     47  C2  ARHMC   3      26.790  -2.250  -9.059  0.00  0.00      CARB  
+ATOM     48  H2  ARHMC   3      25.883  -2.478  -9.693  0.00  0.00      CARB  
+ATOM     49  O2  ARHMC   3      27.337  -3.465  -8.633  0.00  0.00      CARB  
+ATOM     50  HO2 ARHMC   3      27.814  -3.797  -9.400  0.00  0.00      CARB  
+ATOM     51  C3  ARHMC   3      27.822  -1.496  -9.827  0.00  0.00      CARB  
+ATOM     52  H3  ARHMC   3      27.244  -0.665 -10.329  0.00  0.00      CARB  
+ATOM     53  O3  ARHMC   3      28.311  -2.276 -10.961  0.00  0.00      CARB  
+ATOM     54  HO3 ARHMC   3      28.386  -1.734 -11.700  0.00  0.00      CARB  
+ATOM     55  C4  ARHMC   3      28.915  -0.899  -8.926  0.00  0.00      CARB  
+ATOM     56  H4  ARHMC   3      29.522  -1.770  -8.520  0.00  0.00      CARB  
+ATOM     57  O4  ARHMC   3      29.800  -0.005  -9.713  0.00  0.00      CARB  
+ATOM     58  HO4 ARHMC   3      30.402  -0.583 -10.291  0.00  0.00      CARB  
+ATOM     59  C6  ARHMC   3      29.222   0.512  -6.828  0.00  0.00      CARB  
+ATOM     60  H61 ARHMC   3      29.815   1.256  -7.450  0.00  0.00      CARB  
+ATOM     61  H62 ARHMC   3      29.872  -0.216  -6.337  0.00  0.00      CARB  
+ATOM     62  H63 ARHMC   3      28.614   1.218  -6.172  0.00  0.00      CARB  
+ATOM     63  C1  G2P C   4      24.203  -0.708 -11.702  0.00  0.00      CARB  
+ATOM     64  H11 G2P C   4      23.825  -0.296 -12.688  0.00  0.00      CARB  
+ATOM     65  H12 G2P C   4      24.886  -1.548 -12.003  0.00  0.00      CARB  
+ATOM     66  O1  G2P C   4      24.851   0.347 -11.040  0.00  0.00      CARB  
+ATOM     67  HO1 G2P C   4      25.201  -0.149 -10.270  0.00  0.00      CARB  
+ATOM     68  C2  G2P C   4      22.963  -1.127 -10.994  0.00  0.00      CARB  
+ATOM     69  H2  G2P C   4      22.498  -0.273 -10.531  0.00  0.00      CARB  
+ATOM     70  O2  G2P C   4      23.324  -2.099  -9.992  0.00  0.00      CARB  
+ATOM     71  P1  G2P C   4      22.376  -2.325  -8.679  0.00  0.00      CARB  
+ATOM     72  OP3 G2P C   4      22.374  -3.800  -8.339  0.00  0.00      CARB  
+ATOM     73  OP4 G2P C   4      20.998  -1.627  -8.843  0.00  0.00      CARB  
+ATOM     74  C3  G2P C   4      21.965  -1.698 -12.009  0.00  0.00      CARB  
+ATOM     75  H31 G2P C   4      22.263  -2.759 -12.173  0.00  0.00      CARB  
+ATOM     76  H32 G2P C   4      21.979  -1.211 -13.035  0.00  0.00      CARB  
+ATOM     77  O3  G2P C   4      20.666  -1.581 -11.484  0.00  0.00      CARB  
+ATOM     78  HO3 G2P C   4      20.841  -1.670 -10.504  0.00  0.00      CARB  
+ATOM     79  C1  BGLCC   5      21.754  -0.817  -4.654  0.00  0.00      CARB  
+ATOM     80  H1  BGLCC   5      21.470  -1.572  -5.388  0.00  0.00      CARB  
+ATOM     81  C5  BGLCC   5      19.651  -0.870  -3.804  0.00  0.00      CARB  
+ATOM     82  H5  BGLCC   5      19.440  -1.521  -4.725  0.00  0.00      CARB  
+ATOM     83  O5  BGLCC   5      20.698   0.026  -4.139  0.00  0.00      CARB  
+ATOM     84  C2  BGLCC   5      22.354  -1.470  -3.422  0.00  0.00      CARB  
+ATOM     85  H2  BGLCC   5      22.480  -0.709  -2.639  0.00  0.00      CARB  
+ATOM     86  O2  BGLCC   5      23.692  -1.949  -3.690  0.00  0.00      CARB  
+ATOM     87  HO2 BGLCC   5      23.654  -2.797  -4.052  0.00  0.00      CARB  
+ATOM     88  C3  BGLCC   5      21.330  -2.491  -2.996  0.00  0.00      CARB  
+ATOM     89  H3  BGLCC   5      21.100  -3.198  -3.765  0.00  0.00      CARB  
+ATOM     90  O3  BGLCC   5      21.867  -3.305  -1.914  0.00  0.00      CARB  
+ATOM     91  HO3 BGLCC   5      21.712  -4.250  -2.015  0.00  0.00      CARB  
+ATOM     92  C4  BGLCC   5      20.066  -1.758  -2.603  0.00  0.00      CARB  
+ATOM     93  H4  BGLCC   5      20.361  -1.189  -1.738  0.00  0.00      CARB  
+ATOM     94  O4  BGLCC   5      19.037  -2.768  -2.267  0.00  0.00      CARB  
+ATOM     95  C6  BGLCC   5      18.431  -0.060  -3.546  0.00  0.00      CARB  
+ATOM     96  H61 BGLCC   5      18.412   0.919  -4.044  0.00  0.00      CARB  
+ATOM     97  H62 BGLCC   5      17.516  -0.391  -4.010  0.00  0.00      CARB  
+ATOM     98  O6  BGLCC   5      18.090   0.113  -2.110  0.00  0.00      CARB  
+ATOM     99  HO6 BGLCC   5      17.938  -0.711  -1.656  0.00  0.00      CARB  
+ATOM    100  C1  BRHMC   6      18.718  -2.934  -0.901  0.00  0.00      CARB  
+ATOM    101  H1  BRHMC   6      19.600  -2.784  -0.312  0.00  0.00      CARB  
+ATOM    102  C5  BRHMC   6      17.405  -2.054   0.861  0.00  0.00      CARB  
+ATOM    103  H5  BRHMC   6      18.291  -2.013   1.539  0.00  0.00      CARB  
+ATOM    104  O5  BRHMC   6      17.714  -2.068  -0.512  0.00  0.00      CARB  
+ATOM    105  C2  BRHMC   6      18.231  -4.353  -0.642  0.00  0.00      CARB  
+ATOM    106  H2  BRHMC   6      19.099  -5.063  -0.690  0.00  0.00      CARB  
+ATOM    107  O2  BRHMC   6      17.392  -4.850  -1.682  0.00  0.00      CARB  
+ATOM    108  HO2 BRHMC   6      17.809  -5.489  -2.311  0.00  0.00      CARB  
+ATOM    109  C3  BRHMC   6      17.555  -4.541   0.737  0.00  0.00      CARB  
+ATOM    110  H3  BRHMC   6      18.373  -4.461   1.462  0.00  0.00      CARB  
+ATOM    111  O3  BRHMC   6      16.857  -5.736   0.839  0.00  0.00      CARB  
+ATOM    112  HO3 BRHMC   6      16.629  -5.941  -0.058  0.00  0.00      CARB  
+ATOM    113  C4  BRHMC   6      16.632  -3.346   1.052  0.00  0.00      CARB  
+ATOM    114  H4  BRHMC   6      15.702  -3.314   0.387  0.00  0.00      CARB  
+ATOM    115  O4  BRHMC   6      16.124  -3.271   2.378  0.00  0.00      CARB  
+ATOM    116  C6  BRHMC   6      16.535  -0.799   1.111  0.00  0.00      CARB  
+ATOM    117  H61 BRHMC   6      15.590  -0.855   0.512  0.00  0.00      CARB  
+ATOM    118  H62 BRHMC   6      16.970   0.197   0.936  0.00  0.00      CARB  
+ATOM    119  H63 BRHMC   6      16.143  -0.802   2.150  0.00  0.00      CARB  
+ATOM    120  C1  BGALC   7      14.909  -3.909   2.638  0.00  0.00      CARB  
+ATOM    121  H1  BGALC   7      14.852  -4.885   2.184  0.00  0.00      CARB  
+ATOM    122  C5  BGALC   7      12.391  -3.692   2.665  0.00  0.00      CARB  
+ATOM    123  H5  BGALC   7      12.354  -4.680   2.154  0.00  0.00      CARB  
+ATOM    124  O5  BGALC   7      13.731  -3.098   2.386  0.00  0.00      CARB  
+ATOM    125  C2  BGALC   7      14.883  -4.092   4.166  0.00  0.00      CARB  
+ATOM    126  H2  BGALC   7      15.009  -3.102   4.594  0.00  0.00      CARB  
+ATOM    127  O2  BGALC   7      15.996  -4.881   4.641  0.00  0.00      CARB  
+ATOM    128  C3  BGALC   7      13.571  -4.707   4.517  0.00  0.00      CARB  
+ATOM    129  H3  BGALC   7      13.490  -5.633   3.912  0.00  0.00      CARB  
+ATOM    130  O3  BGALC   7      13.404  -4.882   5.937  0.00  0.00      CARB  
+ATOM    131  C4  BGALC   7      12.353  -3.894   4.164  0.00  0.00      CARB  
+ATOM    132  H4  BGALC   7      11.373  -4.471   4.374  0.00  0.00      CARB  
+ATOM    133  O4  BGALC   7      12.393  -2.540   4.739  0.00  0.00      CARB  
+ATOM    134  C6  BGALC   7      11.371  -2.785   2.018  0.00  0.00      CARB  
+ATOM    135  H61 BGALC   7      11.514  -1.750   2.349  0.00  0.00      CARB  
+ATOM    136  H62 BGALC   7      10.352  -3.228   2.226  0.00  0.00      CARB  
+ATOM    137  O6  BGALC   7      11.635  -2.905   0.596  0.00  0.00      CARB  
+ATOM    138  HO6 BGALC   7      11.125  -3.693   0.311  0.00  0.00      CARB  
+ATOM    139  C1  ARHMC   8      16.582  -4.485   5.844  0.00  0.00      CARB  
+ATOM    140  H1  ARHMC   8      15.777  -4.559   6.663  0.00  0.00      CARB  
+ATOM    141  C5  ARHMC   8      18.072  -2.906   4.864  0.00  0.00      CARB  
+ATOM    142  H5  ARHMC   8      17.676  -3.180   3.840  0.00  0.00      CARB  
+ATOM    143  O5  ARHMC   8      17.039  -3.105   5.817  0.00  0.00      CARB  
+ATOM    144  C2  ARHMC   8      17.686  -5.439   6.124  0.00  0.00      CARB  
+ATOM    145  H2  ARHMC   8      17.157  -6.408   5.904  0.00  0.00      CARB  
+ATOM    146  O2  ARHMC   8      18.065  -5.359   7.514  0.00  0.00      CARB  
+ATOM    147  HO2 ARHMC   8      18.766  -4.660   7.591  0.00  0.00      CARB  
+ATOM    148  C3  ARHMC   8      18.886  -5.189   5.168  0.00  0.00      CARB  
+ATOM    149  H3  ARHMC   8      18.556  -5.417   4.121  0.00  0.00      CARB  
+ATOM    150  O3  ARHMC   8      20.015  -6.038   5.522  0.00  0.00      CARB  
+ATOM    151  HO3 ARHMC   8      20.156  -6.746   4.933  0.00  0.00      CARB  
+ATOM    152  C4  ARHMC   8      19.337  -3.750   5.192  0.00  0.00      CARB  
+ATOM    153  H4  ARHMC   8      19.618  -3.463   6.168  0.00  0.00      CARB  
+ATOM    154  O4  ARHMC   8      20.307  -3.400   4.267  0.00  0.00      CARB  
+ATOM    155  HO4 ARHMC   8      21.155  -3.531   4.743  0.00  0.00      CARB  
+ATOM    156  C6  ARHMC   8      18.361  -1.375   4.710  0.00  0.00      CARB  
+ATOM    157  H61 ARHMC   8      17.501  -0.952   4.208  0.00  0.00      CARB  
+ATOM    158  H62 ARHMC   8      19.230  -1.136   4.096  0.00  0.00      CARB  
+ATOM    159  H63 ARHMC   8      18.441  -0.982   5.702  0.00  0.00      CARB  
+ATOM    160  C1  G2P C   9      13.884  -4.626   9.624  0.00  0.00      CARB  
+ATOM    161  H11 G2P C   9      14.533  -4.622  10.549  0.00  0.00      CARB  
+ATOM    162  H12 G2P C   9      12.840  -4.271   9.916  0.00  0.00      CARB  
+ATOM    163  O1  G2P C   9      14.476  -3.718   8.682  0.00  0.00      CARB  
+ATOM    164  HO1 G2P C   9      13.749  -3.386   8.074  0.00  0.00      CARB  
+ATOM    165  C2  G2P C   9      13.813  -5.976   8.939  0.00  0.00      CARB  
+ATOM    166  H2  G2P C   9      14.790  -6.090   8.365  0.00  0.00      CARB  
+ATOM    167  O2  G2P C   9      12.629  -5.964   8.038  0.00  0.00      CARB  
+ATOM    168  P1  G2P C   9      12.783  -6.310   6.458  0.00  0.00      CARB  
+ATOM    169  OP3 G2P C   9      11.401  -6.593   5.839  0.00  0.00      CARB  
+ATOM    170  OP4 G2P C   9      13.823  -7.418   6.338  0.00  0.00      CARB  
+ATOM    171  C3  G2P C   9      13.659  -7.097   9.951  0.00  0.00      CARB  
+ATOM    172  H31 G2P C   9      14.620  -7.206  10.569  0.00  0.00      CARB  
+ATOM    173  H32 G2P C   9      13.436  -7.969   9.338  0.00  0.00      CARB  
+ATOM    174  O3  G2P C   9      12.542  -6.832  10.787  0.00  0.00      CARB  
+ATOM    175  HO3 G2P C   9      12.121  -7.712  11.031  0.00  0.00      CARB  
+ATOM    176  C1  BGLCC  10      11.337  -2.326   5.605  0.00  0.00      CARB  
+ATOM    177  H1  BGLCC  10      11.214  -3.256   6.221  0.00  0.00      CARB  
+ATOM    178  C5  BGLCC  10       8.986  -1.636   5.641  0.00  0.00      CARB  
+ATOM    179  H5  BGLCC  10       8.738  -2.471   6.328  0.00  0.00      CARB  
+ATOM    180  O5  BGLCC  10      10.136  -2.007   4.824  0.00  0.00      CARB  
+ATOM    181  C2  BGLCC  10      11.713  -1.234   6.570  0.00  0.00      CARB  
+ATOM    182  H2  BGLCC  10      12.123  -0.449   5.938  0.00  0.00      CARB  
+ATOM    183  O2  BGLCC  10      12.791  -1.627   7.351  0.00  0.00      CARB  
+ATOM    184  HO2 BGLCC  10      13.578  -1.312   6.840  0.00  0.00      CARB  
+ATOM    185  C3  BGLCC  10      10.515  -0.576   7.306  0.00  0.00      CARB  
+ATOM    186  H3  BGLCC  10      10.223  -1.280   8.105  0.00  0.00      CARB  
+ATOM    187  O3  BGLCC  10      10.949   0.611   7.961  0.00  0.00      CARB  
+ATOM    188  HO3 BGLCC  10      11.494   1.226   7.402  0.00  0.00      CARB  
+ATOM    189  C4  BGLCC  10       9.310  -0.271   6.439  0.00  0.00      CARB  
+ATOM    190  H4  BGLCC  10       9.559   0.544   5.746  0.00  0.00      CARB  
+ATOM    191  O4  BGLCC  10       8.212   0.035   7.372  0.00  0.00      CARB  
+ATOM    192  C6  BGLCC  10       7.717  -1.511   4.800  0.00  0.00      CARB  
+ATOM    193  H61 BGLCC  10       7.565  -2.469   4.238  0.00  0.00      CARB  
+ATOM    194  H62 BGLCC  10       6.907  -1.228   5.408  0.00  0.00      CARB  
+ATOM    195  O6  BGLCC  10       7.781  -0.461   3.835  0.00  0.00      CARB  
+ATOM    196  HO6 BGLCC  10       7.478   0.281   4.334  0.00  0.00      CARB  
+ATOM    197  C1  BRHMC  11       7.751   1.305   7.114  0.00  0.00      CARB  
+ATOM    198  H1  BRHMC  11       8.576   2.090   7.260  0.00  0.00      CARB  
+ATOM    199  C5  BRHMC  11       6.801   2.672   5.414  0.00  0.00      CARB  
+ATOM    200  H5  BRHMC  11       7.647   3.433   5.662  0.00  0.00      CARB  
+ATOM    201  O5  BRHMC  11       7.223   1.392   5.769  0.00  0.00      CARB  
+ATOM    202  C2  BRHMC  11       6.612   1.560   8.098  0.00  0.00      CARB  
+ATOM    203  H2  BRHMC  11       7.083   1.670   9.129  0.00  0.00      CARB  
+ATOM    204  O2  BRHMC  11       5.632   0.518   8.009  0.00  0.00      CARB  
+ATOM    205  HO2 BRHMC  11       6.036  -0.364   8.135  0.00  0.00      CARB  
+ATOM    206  C3  BRHMC  11       5.963   2.945   7.738  0.00  0.00      CARB  
+ATOM    207  H3  BRHMC  11       6.783   3.634   7.939  0.00  0.00      CARB  
+ATOM    208  O3  BRHMC  11       4.860   3.251   8.561  0.00  0.00      CARB  
+ATOM    209  HO3 BRHMC  11       5.149   3.879   9.321  0.00  0.00      CARB  
+ATOM    210  C4  BRHMC  11       5.579   2.984   6.247  0.00  0.00      CARB  
+ATOM    211  H4  BRHMC  11       4.825   2.298   5.959  0.00  0.00      CARB  
+ATOM    212  O4  BRHMC  11       5.213   4.276   5.918  0.00  0.00      CARB  
+ATOM    213  C6  BRHMC  11       6.690   2.699   3.858  0.00  0.00      CARB  
+ATOM    214  H61 BRHMC  11       5.994   1.882   3.476  0.00  0.00      CARB  
+ATOM    215  H62 BRHMC  11       7.750   2.647   3.448  0.00  0.00      CARB  
+ATOM    216  H63 BRHMC  11       6.264   3.669   3.533  0.00  0.00      CARB  
+ATOM    217  C1  BGALC  12       3.844   4.549   5.901  0.00  0.00      CARB  
+ATOM    218  H1  BGALC  12       3.362   4.112   6.736  0.00  0.00      CARB  
+ATOM    219  C5  BGALC  12       1.763   4.328   4.773  0.00  0.00      CARB  
+ATOM    220  H5  BGALC  12       1.295   3.997   5.751  0.00  0.00      CARB  
+ATOM    221  O5  BGALC  12       3.170   4.040   4.705  0.00  0.00      CARB  
+ATOM    222  C2  BGALC  12       3.781   6.057   5.937  0.00  0.00      CARB  
+ATOM    223  H2  BGALC  12       4.271   6.342   5.006  0.00  0.00      CARB  
+ATOM    224  O2  BGALC  12       4.370   6.576   7.127  0.00  0.00      CARB  
+ATOM    225  C3  BGALC  12       2.311   6.430   5.736  0.00  0.00      CARB  
+ATOM    226  H3  BGALC  12       1.854   6.027   6.685  0.00  0.00      CARB  
+ATOM    227  O3  BGALC  12       2.134   7.880   5.607  0.00  0.00      CARB  
+ATOM    228  C4  BGALC  12       1.611   5.807   4.523  0.00  0.00      CARB  
+ATOM    229  H4  BGALC  12       0.552   6.005   4.513  0.00  0.00      CARB  
+ATOM    230  O4  BGALC  12       2.208   6.132   3.253  0.00  0.00      CARB  
+ATOM    231  C6  BGALC  12       1.159   3.446   3.687  0.00  0.00      CARB  
+ATOM    232  H61 BGALC  12       1.733   3.784   2.788  0.00  0.00      CARB  
+ATOM    233  H62 BGALC  12       0.047   3.586   3.574  0.00  0.00      CARB  
+ATOM    234  O6  BGALC  12       1.274   1.995   3.871  0.00  0.00      CARB  
+ATOM    235  HO6 BGALC  12       0.742   1.690   4.631  0.00  0.00      CARB  
+ATOM    236  C1  ARHMC  13       4.973   7.815   6.829  0.00  0.00      CARB  
+ATOM    237  H1  ARHMC  13       4.409   8.441   6.043  0.00  0.00      CARB  
+ATOM    238  C5  ARHMC  13       7.025   6.894   7.683  0.00  0.00      CARB  
+ATOM    239  H5  ARHMC  13       6.604   5.852   7.678  0.00  0.00      CARB  
+ATOM    240  O5  ARHMC  13       6.453   7.671   6.617  0.00  0.00      CARB  
+ATOM    241  C2  ARHMC  13       4.840   8.626   8.150  0.00  0.00      CARB  
+ATOM    242  H2  ARHMC  13       3.749   8.716   8.256  0.00  0.00      CARB  
+ATOM    243  O2  ARHMC  13       5.334   9.970   7.969  0.00  0.00      CARB  
+ATOM    244  HO2 ARHMC  13       5.648  10.064   7.068  0.00  0.00      CARB  
+ATOM    245  C3  ARHMC  13       5.369   7.821   9.292  0.00  0.00      CARB  
+ATOM    246  H3  ARHMC  13       4.852   6.819   9.300  0.00  0.00      CARB  
+ATOM    247  O3  ARHMC  13       5.070   8.481  10.563  0.00  0.00      CARB  
+ATOM    248  HO3 ARHMC  13       5.622   9.269  10.507  0.00  0.00      CARB  
+ATOM    249  C4  ARHMC  13       6.870   7.391   9.100  0.00  0.00      CARB  
+ATOM    250  H4  ARHMC  13       7.497   8.400   9.292  0.00  0.00      CARB  
+ATOM    251  O4  ARHMC  13       7.243   6.480  10.090  0.00  0.00      CARB  
+ATOM    252  HO4 ARHMC  13       7.882   6.875  10.740  0.00  0.00      CARB  
+ATOM    253  C6  ARHMC  13       8.522   6.794   7.418  0.00  0.00      CARB  
+ATOM    254  H61 ARHMC  13       8.980   6.131   8.170  0.00  0.00      CARB  
+ATOM    255  H62 ARHMC  13       8.941   7.781   7.541  0.00  0.00      CARB  
+ATOM    256  H63 ARHMC  13       8.829   6.430   6.413  0.00  0.00      CARB  
+ATOM    257  C1  G2P C  14       1.810   9.540  10.032  0.00  0.00      CARB  
+ATOM    258  H11 G2P C  14       2.626   8.846  10.006  0.00  0.00      CARB  
+ATOM    259  H12 G2P C  14       1.380   9.497  11.065  0.00  0.00      CARB  
+ATOM    260  O1  G2P C  14       2.350  10.817   9.720  0.00  0.00      CARB  
+ATOM    261  HO1 G2P C  14       2.039  11.176   8.845  0.00  0.00      CARB  
+ATOM    262  C2  G2P C  14       0.846   9.020   8.951  0.00  0.00      CARB  
+ATOM    263  H2  G2P C  14       0.713   7.876   9.085  0.00  0.00      CARB  
+ATOM    264  O2  G2P C  14       1.464   9.307   7.644  0.00  0.00      CARB  
+ATOM    265  P1  G2P C  14       0.799   8.621   6.312  0.00  0.00      CARB  
+ATOM    266  OP3 G2P C  14       0.419   9.828   5.468  0.00  0.00      CARB  
+ATOM    267  OP4 G2P C  14      -0.294   7.667   6.692  0.00  0.00      CARB  
+ATOM    268  C3  G2P C  14      -0.494   9.736   9.020  0.00  0.00      CARB  
+ATOM    269  H31 G2P C  14      -0.533  10.601   8.334  0.00  0.00      CARB  
+ATOM    270  H32 G2P C  14      -0.747  10.075  10.059  0.00  0.00      CARB  
+ATOM    271  O3  G2P C  14      -1.592   8.935   8.588  0.00  0.00      CARB  
+ATOM    272  HO3 G2P C  14      -1.202   8.379   7.855  0.00  0.00      CARB  
+ATOM    273  C1  BGLCC  15       1.436   6.902   2.469  0.00  0.00      CARB  
+ATOM    274  H1  BGLCC  15       1.181   7.783   3.019  0.00  0.00      CARB  
+ATOM    275  C5  BGLCC  15      -0.688   7.040   1.383  0.00  0.00      CARB  
+ATOM    276  H5  BGLCC  15      -0.931   7.892   1.956  0.00  0.00      CARB  
+ATOM    277  O5  BGLCC  15       0.226   6.217   2.134  0.00  0.00      CARB  
+ATOM    278  C2  BGLCC  15       2.154   7.180   1.132  0.00  0.00      CARB  
+ATOM    279  H2  BGLCC  15       2.202   6.226   0.613  0.00  0.00      CARB  
+ATOM    280  O2  BGLCC  15       3.509   7.624   1.296  0.00  0.00      CARB  
+ATOM    281  HO2 BGLCC  15       4.101   7.000   1.846  0.00  0.00      CARB  
+ATOM    282  C3  BGLCC  15       1.368   7.990   0.145  0.00  0.00      CARB  
+ATOM    283  H3  BGLCC  15       1.284   9.028   0.600  0.00  0.00      CARB  
+ATOM    284  O3  BGLCC  15       1.968   8.186  -1.189  0.00  0.00      CARB  
+ATOM    285  HO3 BGLCC  15       1.881   9.176  -1.461  0.00  0.00      CARB  
+ATOM    286  C4  BGLCC  15      -0.042   7.341   0.055  0.00  0.00      CARB  
+ATOM    287  H4  BGLCC  15       0.146   6.381  -0.489  0.00  0.00      CARB  
+ATOM    288  O4  BGLCC  15      -1.000   8.105  -0.669  0.00  0.00      CARB  
+ATOM    289  C6  BGLCC  15      -1.997   6.281   1.183  0.00  0.00      CARB  
+ATOM    290  H61 BGLCC  15      -2.403   5.894   2.161  0.00  0.00      CARB  
+ATOM    291  H62 BGLCC  15      -2.770   6.973   0.873  0.00  0.00      CARB  
+ATOM    292  O6  BGLCC  15      -1.840   5.169   0.319  0.00  0.00      CARB  
+ATOM    293  HO6 BGLCC  15      -1.839   5.533  -0.612  0.00  0.00      CARB  
+ATOM    294  C1  BRHMC  16      -1.175   7.749  -2.011  0.00  0.00      CARB  
+ATOM    295  H1  BRHMC  16      -0.156   7.621  -2.514  0.00  0.00      CARB  
+ATOM    296  C5  BRHMC  16      -2.202   6.069  -3.391  0.00  0.00      CARB  
+ATOM    297  H5  BRHMC  16      -1.270   5.972  -4.020  0.00  0.00      CARB  
+ATOM    298  O5  BRHMC  16      -1.917   6.513  -2.043  0.00  0.00      CARB  
+ATOM    299  C2  BRHMC  16      -2.029   8.823  -2.607  0.00  0.00      CARB  
+ATOM    300  H2  BRHMC  16      -1.536   9.819  -2.581  0.00  0.00      CARB  
+ATOM    301  O2  BRHMC  16      -3.223   9.125  -1.868  0.00  0.00      CARB  
+ATOM    302  HO2 BRHMC  16      -3.383   8.452  -1.192  0.00  0.00      CARB  
+ATOM    303  C3  BRHMC  16      -2.316   8.350  -4.029  0.00  0.00      CARB  
+ATOM    304  H3  BRHMC  16      -1.304   8.225  -4.551  0.00  0.00      CARB  
+ATOM    305  O3  BRHMC  16      -2.961   9.387  -4.762  0.00  0.00      CARB  
+ATOM    306  HO3 BRHMC  16      -2.229   9.821  -5.194  0.00  0.00      CARB  
+ATOM    307  C4  BRHMC  16      -3.127   7.009  -4.044  0.00  0.00      CARB  
+ATOM    308  H4  BRHMC  16      -4.012   7.138  -3.438  0.00  0.00      CARB  
+ATOM    309  O4  BRHMC  16      -3.394   6.582  -5.361  0.00  0.00      CARB  
+ATOM    310  C6  BRHMC  16      -2.862   4.693  -3.169  0.00  0.00      CARB  
+ATOM    311  H61 BRHMC  16      -3.313   4.330  -4.111  0.00  0.00      CARB  
+ATOM    312  H62 BRHMC  16      -3.543   4.762  -2.379  0.00  0.00      CARB  
+ATOM    313  H63 BRHMC  16      -2.038   4.044  -2.917  0.00  0.00      CARB  
+ATOM    314  C1  BGALC  17      -4.724   6.769  -5.757  0.00  0.00      CARB  
+ATOM    315  H1  BGALC  17      -5.022   7.763  -5.462  0.00  0.00      CARB  
+ATOM    316  C5  BGALC  17      -6.858   5.989  -5.239  0.00  0.00      CARB  
+ATOM    317  H5  BGALC  17      -7.286   6.903  -4.836  0.00  0.00      CARB  
+ATOM    318  O5  BGALC  17      -5.476   5.858  -4.976  0.00  0.00      CARB  
+ATOM    319  C2  BGALC  17      -4.927   6.279  -7.187  0.00  0.00      CARB  
+ATOM    320  H2  BGALC  17      -4.574   5.205  -7.339  0.00  0.00      CARB  
+ATOM    321  O2  BGALC  17      -4.087   7.130  -7.956  0.00  0.00      CARB  
+ATOM    322  C3  BGALC  17      -6.362   6.532  -7.527  0.00  0.00      CARB  
+ATOM    323  H3  BGALC  17      -6.505   7.564  -7.157  0.00  0.00      CARB  
+ATOM    324  O3  BGALC  17      -6.538   6.440  -8.947  0.00  0.00      CARB  
+ATOM    325  C4  BGALC  17      -7.221   5.541  -6.680  0.00  0.00      CARB  
+ATOM    326  H4  BGALC  17      -8.320   5.688  -6.763  0.00  0.00      CARB  
+ATOM    327  O4  BGALC  17      -6.878   4.150  -6.910  0.00  0.00      CARB  
+ATOM    328  C6  BGALC  17      -7.388   5.036  -4.250  0.00  0.00      CARB  
+ATOM    329  H61 BGALC  17      -6.896   4.040  -4.354  0.00  0.00      CARB  
+ATOM    330  H62 BGALC  17      -8.420   4.808  -4.488  0.00  0.00      CARB  
+ATOM    331  O6  BGALC  17      -7.411   5.447  -2.861  0.00  0.00      CARB  
+ATOM    332  HO6 BGALC  17      -6.743   4.942  -2.335  0.00  0.00      CARB  
+ATOM    333  C1  ARHMC  18      -3.418   6.470  -9.037  0.00  0.00      CARB  
+ATOM    334  H1  ARHMC  18      -4.020   5.573  -9.419  0.00  0.00      CARB  
+ATOM    335  C5  ARHMC  18      -1.155   7.114  -8.357  0.00  0.00      CARB  
+ATOM    336  H5  ARHMC  18      -1.598   7.652  -7.475  0.00  0.00      CARB  
+ATOM    337  O5  ARHMC  18      -2.092   6.069  -8.666  0.00  0.00      CARB  
+ATOM    338  C2  ARHMC  18      -3.304   7.573 -10.170  0.00  0.00      CARB  
+ATOM    339  H2  ARHMC  18      -4.340   8.066 -10.320  0.00  0.00      CARB  
+ATOM    340  O2  ARHMC  18      -3.064   6.866 -11.391  0.00  0.00      CARB  
+ATOM    341  HO2 ARHMC  18      -3.859   6.961 -11.983  0.00  0.00      CARB  
+ATOM    342  C3  ARHMC  18      -2.338   8.663  -9.917  0.00  0.00      CARB  
+ATOM    343  H3  ARHMC  18      -2.752   9.245  -9.052  0.00  0.00      CARB  
+ATOM    344  O3  ARHMC  18      -2.246   9.522 -11.062  0.00  0.00      CARB  
+ATOM    345  HO3 ARHMC  18      -1.953   8.987 -11.796  0.00  0.00      CARB  
+ATOM    346  C4  ARHMC  18      -0.978   8.221  -9.455  0.00  0.00      CARB  
+ATOM    347  H4  ARHMC  18      -0.516   7.737 -10.422  0.00  0.00      CARB  
+ATOM    348  O4  ARHMC  18      -0.199   9.265  -8.912  0.00  0.00      CARB  
+ATOM    349  HO4 ARHMC  18       0.726   9.256  -9.314  0.00  0.00      CARB  
+ATOM    350  C6  ARHMC  18       0.150   6.430  -7.869  0.00  0.00      CARB  
+ATOM    351  H61 ARHMC  18       0.024   5.582  -7.199  0.00  0.00      CARB  
+ATOM    352  H62 ARHMC  18       0.951   7.129  -7.512  0.00  0.00      CARB  
+ATOM    353  H63 ARHMC  18       0.597   6.131  -8.881  0.00  0.00      CARB  
+ATOM    354  C1  G2P C  19      -7.134  10.923  -9.191  0.00  0.00      CARB  
+ATOM    355  H11 G2P C  19      -7.746  11.777  -8.801  0.00  0.00      CARB  
+ATOM    356  H12 G2P C  19      -6.735  11.252 -10.163  0.00  0.00      CARB  
+ATOM    357  O1  G2P C  19      -6.085  10.645  -8.167  0.00  0.00      CARB  
+ATOM    358  HO1 G2P C  19      -5.512   9.884  -8.402  0.00  0.00      CARB  
+ATOM    359  C2  G2P C  19      -8.067   9.709  -9.392  0.00  0.00      CARB  
+ATOM    360  H2  G2P C  19      -8.421   9.488  -8.363  0.00  0.00      CARB  
+ATOM    361  O2  G2P C  19      -7.224   8.618  -9.922  0.00  0.00      CARB  
+ATOM    362  P1  G2P C  19      -7.722   7.110  -9.685  0.00  0.00      CARB  
+ATOM    363  OP3 G2P C  19      -7.982   6.556 -11.063  0.00  0.00      CARB  
+ATOM    364  OP4 G2P C  19      -8.931   7.161  -8.778  0.00  0.00      CARB  
+ATOM    365  C3  G2P C  19      -9.220  10.052 -10.386  0.00  0.00      CARB  
+ATOM    366  H31 G2P C  19      -9.900  10.827  -9.929  0.00  0.00      CARB  
+ATOM    367  H32 G2P C  19      -9.769   9.094 -10.572  0.00  0.00      CARB  
+ATOM    368  O3  G2P C  19      -8.694  10.586 -11.602  0.00  0.00      CARB  
+ATOM    369  HO3 G2P C  19      -8.272   9.939 -12.210  0.00  0.00      CARB  
+ATOM    370  C1  BGLCC  20      -7.855   3.439  -7.631  0.00  0.00      CARB  
+ATOM    371  H1  BGLCC  20      -8.187   4.017  -8.514  0.00  0.00      CARB  
+ATOM    372  C5  BGLCC  20      -9.994   2.546  -7.770  0.00  0.00      CARB  
+ATOM    373  H5  BGLCC  20     -10.000   3.100  -8.766  0.00  0.00      CARB  
+ATOM    374  O5  BGLCC  20      -9.017   3.175  -6.875  0.00  0.00      CARB  
+ATOM    375  C2  BGLCC  20      -7.142   2.174  -7.953  0.00  0.00      CARB  
+ATOM    376  H2  BGLCC  20      -7.065   1.593  -7.030  0.00  0.00      CARB  
+ATOM    377  O2  BGLCC  20      -5.865   2.397  -8.619  0.00  0.00      CARB  
+ATOM    378  HO2 BGLCC  20      -5.157   2.431  -7.979  0.00  0.00      CARB  
+ATOM    379  C3  BGLCC  20      -8.071   1.355  -8.896  0.00  0.00      CARB  
+ATOM    380  H3  BGLCC  20      -8.175   1.939  -9.831  0.00  0.00      CARB  
+ATOM    381  O3  BGLCC  20      -7.497   0.087  -9.129  0.00  0.00      CARB  
+ATOM    382  HO3 BGLCC  20      -7.849  -0.263  -9.994  0.00  0.00      CARB  
+ATOM    383  C4  BGLCC  20      -9.413   1.218  -8.249  0.00  0.00      CARB  
+ATOM    384  H4  BGLCC  20      -9.396   0.412  -7.475  0.00  0.00      CARB  
+ATOM    385  O4  BGLCC  20     -10.217   0.663  -9.287  0.00  0.00      CARB  
+ATOM    386  C6  BGLCC  20     -11.390   2.543  -7.156  0.00  0.00      CARB  
+ATOM    387  H61 BGLCC  20     -11.670   3.468  -6.633  0.00  0.00      CARB  
+ATOM    388  H62 BGLCC  20     -12.112   2.528  -8.010  0.00  0.00      CARB  
+ATOM    389  O6  BGLCC  20     -11.544   1.388  -6.278  0.00  0.00      CARB  
+ATOM    390  HO6 BGLCC  20     -11.782   0.650  -6.924  0.00  0.00      CARB  
+ATOM    391  C1  BRHMC  21     -10.554  -0.692  -8.984  0.00  0.00      CARB  
+ATOM    392  H1  BRHMC  21      -9.669  -1.207  -8.735  0.00  0.00      CARB  
+ATOM    393  C5  BRHMC  21     -11.838  -2.024  -7.434  0.00  0.00      CARB  
+ATOM    394  H5  BRHMC  21     -10.912  -2.571  -7.256  0.00  0.00      CARB  
+ATOM    395  O5  BRHMC  21     -11.495  -0.715  -7.905  0.00  0.00      CARB  
+ATOM    396  C2  BRHMC  21     -11.286  -1.315 -10.218  0.00  0.00      CARB  
+ATOM    397  H2  BRHMC  21     -10.583  -1.324 -11.133  0.00  0.00      CARB  
+ATOM    398  O2  BRHMC  21     -12.376  -0.509 -10.637  0.00  0.00      CARB  
+ATOM    399  HO2 BRHMC  21     -12.802  -0.166  -9.863  0.00  0.00      CARB  
+ATOM    400  C3  BRHMC  21     -11.659  -2.715  -9.804  0.00  0.00      CARB  
+ATOM    401  H3  BRHMC  21     -10.787  -3.294  -9.576  0.00  0.00      CARB  
+ATOM    402  O3  BRHMC  21     -12.324  -3.473 -10.864  0.00  0.00      CARB  
+ATOM    403  HO3 BRHMC  21     -13.128  -3.049 -11.250  0.00  0.00      CARB  
+ATOM    404  C4  BRHMC  21     -12.541  -2.674  -8.618  0.00  0.00      CARB  
+ATOM    405  H4  BRHMC  21     -13.460  -2.217  -8.912  0.00  0.00      CARB  
+ATOM    406  O4  BRHMC  21     -12.977  -4.010  -8.317  0.00  0.00      CARB  
+ATOM    407  C6  BRHMC  21     -12.662  -1.979  -6.112  0.00  0.00      CARB  
+ATOM    408  H61 BRHMC  21     -12.921  -3.054  -5.820  0.00  0.00      CARB  
+ATOM    409  H62 BRHMC  21     -13.541  -1.296  -6.261  0.00  0.00      CARB  
+ATOM    410  H63 BRHMC  21     -12.027  -1.588  -5.367  0.00  0.00      CARB  
+ATOM    411  C1  BGALC  22     -14.351  -4.345  -8.158  0.00  0.00      CARB  
+ATOM    412  H1  BGALC  22     -14.862  -4.333  -9.104  0.00  0.00      CARB  
+ATOM    413  C5  BGALC  22     -16.335  -3.875  -7.037  0.00  0.00      CARB  
+ATOM    414  H5  BGALC  22     -16.830  -3.865  -8.063  0.00  0.00      CARB  
+ATOM    415  O5  BGALC  22     -14.973  -3.546  -7.213  0.00  0.00      CARB  
+ATOM    416  C2  BGALC  22     -14.395  -5.723  -7.549  0.00  0.00      CARB  
+ATOM    417  H2  BGALC  22     -13.739  -5.842  -6.614  0.00  0.00      CARB  
+ATOM    418  O2  BGALC  22     -13.847  -6.617  -8.589  0.00  0.00      CARB  
+ATOM    419  C3  BGALC  22     -15.827  -6.174  -7.347  0.00  0.00      CARB  
+ATOM    420  H3  BGALC  22     -16.387  -6.058  -8.385  0.00  0.00      CARB  
+ATOM    421  O3  BGALC  22     -15.977  -7.462  -6.753  0.00  0.00      CARB  
+ATOM    422  C4  BGALC  22     -16.384  -5.204  -6.349  0.00  0.00      CARB  
+ATOM    423  H4  BGALC  22     -17.389  -5.413  -6.158  0.00  0.00      CARB  
+ATOM    424  O4  BGALC  22     -15.606  -4.902  -5.155  0.00  0.00      CARB  
+ATOM    425  C6  BGALC  22     -16.924  -2.702  -6.299  0.00  0.00      CARB  
+ATOM    426  H61 BGALC  22     -17.549  -2.174  -7.014  0.00  0.00      CARB  
+ATOM    427  H62 BGALC  22     -16.135  -1.977  -5.960  0.00  0.00      CARB  
+ATOM    428  O6  BGALC  22     -17.841  -2.953  -5.223  0.00  0.00      CARB  
+ATOM    429  HO6 BGALC  22     -17.323  -3.342  -4.525  0.00  0.00      CARB  
+ATOM    430  C1  ARHMC  23     -13.108  -7.688  -8.064  0.00  0.00      CARB  
+ATOM    431  H1  ARHMC  23     -13.659  -8.200  -7.203  0.00  0.00      CARB  
+ATOM    432  C5  ARHMC  23     -11.074  -6.690  -8.951  0.00  0.00      CARB  
+ATOM    433  H5  ARHMC  23     -11.697  -5.877  -9.188  0.00  0.00      CARB  
+ATOM    434  O5  ARHMC  23     -11.750  -7.279  -7.778  0.00  0.00      CARB  
+ATOM    435  C2  ARHMC  23     -13.000  -8.776  -9.180  0.00  0.00      CARB  
+ATOM    436  H2  ARHMC  23     -14.025  -8.965  -9.632  0.00  0.00      CARB  
+ATOM    437  O2  ARHMC  23     -12.381  -9.955  -8.713  0.00  0.00      CARB  
+ATOM    438  HO2 ARHMC  23     -12.941 -10.192  -7.948  0.00  0.00      CARB  
+ATOM    439  C3  ARHMC  23     -12.258  -8.243 -10.375  0.00  0.00      CARB  
+ATOM    440  H3  ARHMC  23     -12.884  -7.434 -10.845  0.00  0.00      CARB  
+ATOM    441  O3  ARHMC  23     -12.040  -9.312 -11.299  0.00  0.00      CARB  
+ATOM    442  HO3 ARHMC  23     -12.495  -9.047 -12.102  0.00  0.00      CARB  
+ATOM    443  C4  ARHMC  23     -10.901  -7.723  -9.932  0.00  0.00      CARB  
+ATOM    444  H4  ARHMC  23     -10.311  -8.547  -9.584  0.00  0.00      CARB  
+ATOM    445  O4  ARHMC  23     -10.185  -7.263 -11.038  0.00  0.00      CARB  
+ATOM    446  HO4 ARHMC  23     -10.710  -6.631 -11.533  0.00  0.00      CARB  
+ATOM    447  C6  ARHMC  23      -9.835  -6.057  -8.365  0.00  0.00      CARB  
+ATOM    448  H61 ARHMC  23     -10.073  -5.055  -7.860  0.00  0.00      CARB  
+ATOM    449  H62 ARHMC  23      -9.071  -5.785  -9.176  0.00  0.00      CARB  
+ATOM    450  H63 ARHMC  23      -9.355  -6.750  -7.676  0.00  0.00      CARB  
+ATOM    451  C1  G2P C  24     -16.510  -8.269 -11.153  0.00  0.00      CARB  
+ATOM    452  H11 G2P C  24     -17.300  -8.100 -11.967  0.00  0.00      CARB  
+ATOM    453  H12 G2P C  24     -15.832  -9.138 -11.357  0.00  0.00      CARB  
+ATOM    454  O1  G2P C  24     -15.800  -7.059 -11.017  0.00  0.00      CARB  
+ATOM    455  HO1 G2P C  24     -15.381  -7.035 -10.109  0.00  0.00      CARB  
+ATOM    456  C2  G2P C  24     -17.308  -8.521  -9.903  0.00  0.00      CARB  
+ATOM    457  H2  G2P C  24     -17.978  -7.672  -9.822  0.00  0.00      CARB  
+ATOM    458  O2  G2P C  24     -16.348  -8.778  -8.847  0.00  0.00      CARB  
+ATOM    459  P1  G2P C  24     -17.037  -8.508  -7.339  0.00  0.00      CARB  
+ATOM    460  OP3 G2P C  24     -17.028  -9.784  -6.611  0.00  0.00      CARB  
+ATOM    461  OP4 G2P C  24     -18.366  -7.799  -7.526  0.00  0.00      CARB  
+ATOM    462  C3  G2P C  24     -18.293  -9.653 -10.158  0.00  0.00      CARB  
+ATOM    463  H31 G2P C  24     -17.864 -10.642  -9.765  0.00  0.00      CARB  
+ATOM    464  H32 G2P C  24     -18.419  -9.825 -11.256  0.00  0.00      CARB  
+ATOM    465  O3  G2P C  24     -19.596  -9.526  -9.541  0.00  0.00      CARB  
+ATOM    466  HO3 G2P C  24     -19.449  -8.833  -8.900  0.00  0.00      CARB  
+ATOM    467  C1  BGLCC  25     -15.921  -5.644  -4.015  0.00  0.00      CARB  
+ATOM    468  H1  BGLCC  25     -15.935  -6.757  -4.116  0.00  0.00      CARB  
+ATOM    469  C5  BGLCC  25     -17.544  -5.959  -2.256  0.00  0.00      CARB  
+ATOM    470  H5  BGLCC  25     -17.643  -7.050  -2.381  0.00  0.00      CARB  
+ATOM    471  O5  BGLCC  25     -17.181  -5.264  -3.482  0.00  0.00      CARB  
+ATOM    472  C2  BGLCC  25     -14.752  -5.393  -3.048  0.00  0.00      CARB  
+ATOM    473  H2  BGLCC  25     -14.699  -4.315  -2.827  0.00  0.00      CARB  
+ATOM    474  O2  BGLCC  25     -13.524  -5.716  -3.654  0.00  0.00      CARB  
+ATOM    475  HO2 BGLCC  25     -13.031  -4.882  -3.441  0.00  0.00      CARB  
+ATOM    476  C3  BGLCC  25     -15.162  -6.178  -1.748  0.00  0.00      CARB  
+ATOM    477  H3  BGLCC  25     -15.209  -7.246  -2.151  0.00  0.00      CARB  
+ATOM    478  O3  BGLCC  25     -14.101  -6.218  -0.766  0.00  0.00      CARB  
+ATOM    479  HO3 BGLCC  25     -14.246  -6.980  -0.173  0.00  0.00      CARB  
+ATOM    480  C4  BGLCC  25     -16.465  -5.776  -1.215  0.00  0.00      CARB  
+ATOM    481  H4  BGLCC  25     -16.454  -4.674  -1.007  0.00  0.00      CARB  
+ATOM    482  O4  BGLCC  25     -16.838  -6.624  -0.107  0.00  0.00      CARB  
+ATOM    483  C6  BGLCC  25     -18.949  -5.470  -1.766  0.00  0.00      CARB  
+ATOM    484  H61 BGLCC  25     -19.607  -5.324  -2.624  0.00  0.00      CARB  
+ATOM    485  H62 BGLCC  25     -19.356  -6.268  -1.236  0.00  0.00      CARB  
+ATOM    486  O6  BGLCC  25     -18.896  -4.228  -1.099  0.00  0.00      CARB  
+ATOM    487  HO6 BGLCC  25     -18.522  -4.375  -0.208  0.00  0.00      CARB  
+ATOM    488  C1  BRHMC  26     -16.742  -5.960   1.071  0.00  0.00      CARB  
+ATOM    489  H1  BRHMC  26     -15.778  -5.443   1.138  0.00  0.00      CARB  
+ATOM    490  C5  BRHMC  26     -17.786  -4.371   2.411  0.00  0.00      CARB  
+ATOM    491  H5  BRHMC  26     -16.809  -3.824   2.351  0.00  0.00      CARB  
+ATOM    492  O5  BRHMC  26     -17.903  -5.097   1.194  0.00  0.00      CARB  
+ATOM    493  C2  BRHMC  26     -17.002  -6.948   2.153  0.00  0.00      CARB  
+ATOM    494  H2  BRHMC  26     -16.342  -7.837   2.031  0.00  0.00      CARB  
+ATOM    495  O2  BRHMC  26     -18.236  -7.633   2.028  0.00  0.00      CARB  
+ATOM    496  HO2 BRHMC  26     -18.880  -7.125   1.482  0.00  0.00      CARB  
+ATOM    497  C3  BRHMC  26     -16.764  -6.320   3.495  0.00  0.00      CARB  
+ATOM    498  H3  BRHMC  26     -15.818  -5.865   3.562  0.00  0.00      CARB  
+ATOM    499  O3  BRHMC  26     -16.780  -7.357   4.470  0.00  0.00      CARB  
+ATOM    500  HO3 BRHMC  26     -17.577  -7.969   4.418  0.00  0.00      CARB  
+ATOM    501  C4  BRHMC  26     -17.787  -5.218   3.703  0.00  0.00      CARB  
+ATOM    502  H4  BRHMC  26     -18.808  -5.668   3.709  0.00  0.00      CARB  
+ATOM    503  O4  BRHMC  26     -17.630  -4.333   4.788  0.00  0.00      CARB  
+ATOM    504  C6  BRHMC  26     -18.959  -3.367   2.306  0.00  0.00      CARB  
+ATOM    505  H61 BRHMC  26     -19.960  -3.899   2.044  0.00  0.00      CARB  
+ATOM    506  H62 BRHMC  26     -18.692  -2.705   1.494  0.00  0.00      CARB  
+ATOM    507  H63 BRHMC  26     -19.045  -2.840   3.294  0.00  0.00      CARB  
+ATOM    508  C1  BGALC  27     -18.119  -4.876   5.971  0.00  0.00      CARB  
+ATOM    509  H1  BGALC  27     -17.964  -5.992   6.047  0.00  0.00      CARB  
+ATOM    510  C5  BGALC  27     -20.122  -5.381   7.074  0.00  0.00      CARB  
+ATOM    511  H5  BGALC  27     -19.958  -6.477   7.030  0.00  0.00      CARB  
+ATOM    512  O5  BGALC  27     -19.526  -4.637   5.996  0.00  0.00      CARB  
+ATOM    513  C2  BGALC  27     -17.568  -4.160   7.183  0.00  0.00      CARB  
+ATOM    514  H2  BGALC  27     -17.884  -3.134   7.124  0.00  0.00      CARB  
+ATOM    515  O2  BGALC  27     -16.154  -4.213   7.247  0.00  0.00      CARB  
+ATOM    516  C3  BGALC  27     -18.094  -4.870   8.428  0.00  0.00      CARB  
+ATOM    517  H3  BGALC  27     -17.681  -5.933   8.391  0.00  0.00      CARB  
+ATOM    518  O3  BGALC  27     -17.699  -4.149   9.636  0.00  0.00      CARB  
+ATOM    519  C4  BGALC  27     -19.629  -4.857   8.459  0.00  0.00      CARB  
+ATOM    520  H4  BGALC  27     -20.022  -5.513   9.176  0.00  0.00      CARB  
+ATOM    521  O4  BGALC  27     -20.258  -3.554   8.643  0.00  0.00      CARB  
+ATOM    522  C6  BGALC  27     -21.573  -5.260   6.843  0.00  0.00      CARB  
+ATOM    523  H61 BGALC  27     -21.927  -4.197   6.824  0.00  0.00      CARB  
+ATOM    524  H62 BGALC  27     -22.198  -5.746   7.649  0.00  0.00      CARB  
+ATOM    525  O6  BGALC  27     -21.984  -5.943   5.642  0.00  0.00      CARB  
+ATOM    526  HO6 BGALC  27     -22.368  -5.393   4.929  0.00  0.00      CARB  
+ATOM    527  C1  ARHMC  28     -15.603  -2.942   7.511  0.00  0.00      CARB  
+ATOM    528  H1  ARHMC  28     -16.074  -2.466   8.467  0.00  0.00      CARB  
+ATOM    529  C5  ARHMC  28     -15.202  -2.594   5.125  0.00  0.00      CARB  
+ATOM    530  H5  ARHMC  28     -15.753  -3.506   4.825  0.00  0.00      CARB  
+ATOM    531  O5  ARHMC  28     -15.778  -2.084   6.347  0.00  0.00      CARB  
+ATOM    532  C2  ARHMC  28     -14.088  -3.169   7.659  0.00  0.00      CARB  
+ATOM    533  H2  ARHMC  28     -14.136  -3.978   8.443  0.00  0.00      CARB  
+ATOM    534  O2  ARHMC  28     -13.406  -2.079   8.293  0.00  0.00      CARB  
+ATOM    535  HO2 ARHMC  28     -13.125  -2.430   9.129  0.00  0.00      CARB  
+ATOM    536  C3  ARHMC  28     -13.380  -3.684   6.391  0.00  0.00      CARB  
+ATOM    537  H3  ARHMC  28     -13.725  -4.707   6.246  0.00  0.00      CARB  
+ATOM    538  O3  ARHMC  28     -11.951  -3.804   6.614  0.00  0.00      CARB  
+ATOM    539  HO3 ARHMC  28     -11.680  -2.851   6.701  0.00  0.00      CARB  
+ATOM    540  C4  ARHMC  28     -13.682  -2.767   5.242  0.00  0.00      CARB  
+ATOM    541  H4  ARHMC  28     -13.213  -1.821   5.476  0.00  0.00      CARB  
+ATOM    542  O4  ARHMC  28     -13.216  -3.259   3.995  0.00  0.00      CARB  
+ATOM    543  HO4 ARHMC  28     -12.972  -2.459   3.419  0.00  0.00      CARB  
+ATOM    544  C6  ARHMC  28     -15.579  -1.458   4.124  0.00  0.00      CARB  
+ATOM    545  H61 ARHMC  28     -16.647  -1.323   4.164  0.00  0.00      CARB  
+ATOM    546  H62 ARHMC  28     -15.229  -1.739   3.130  0.00  0.00      CARB  
+ATOM    547  H63 ARHMC  28     -15.172  -0.463   4.467  0.00  0.00      CARB  
+ATOM    548  C1  G2P C  29     -16.016  -4.428  14.213  0.00  0.00      CARB  
+ATOM    549  H11 G2P C  29     -15.565  -5.426  14.068  0.00  0.00      CARB  
+ATOM    550  H12 G2P C  29     -16.459  -4.359  15.250  0.00  0.00      CARB  
+ATOM    551  O1  G2P C  29     -14.942  -3.502  14.364  0.00  0.00      CARB  
+ATOM    552  HO1 G2P C  29     -14.522  -3.580  13.516  0.00  0.00      CARB  
+ATOM    553  C2  G2P C  29     -16.912  -3.936  13.174  0.00  0.00      CARB  
+ATOM    554  H2  G2P C  29     -17.862  -4.547  13.387  0.00  0.00      CARB  
+ATOM    555  O2  G2P C  29     -16.403  -4.131  11.851  0.00  0.00      CARB  
+ATOM    556  P1  G2P C  29     -17.253  -5.130  10.902  0.00  0.00      CARB  
+ATOM    557  OP3 G2P C  29     -18.464  -5.718  11.585  0.00  0.00      CARB  
+ATOM    558  OP4 G2P C  29     -16.231  -6.145  10.390  0.00  0.00      CARB  
+ATOM    559  C3  G2P C  29     -17.317  -2.450  13.338  0.00  0.00      CARB  
+ATOM    560  H31 G2P C  29     -16.560  -1.806  12.810  0.00  0.00      CARB  
+ATOM    561  H32 G2P C  29     -17.276  -2.203  14.402  0.00  0.00      CARB  
+ATOM    562  O3  G2P C  29     -18.642  -2.275  12.701  0.00  0.00      CARB  
+ATOM    563  HO3 G2P C  29     -18.467  -1.959  11.798  0.00  0.00      CARB  
+ATOM    564  C1  BGLCC  30     -21.284  -3.526   9.664  0.00  0.00      CARB  
+ATOM    565  H1  BGLCC  30     -20.869  -3.544  10.660  0.00  0.00      CARB  
+ATOM    566  C5  BGLCC  30     -23.319  -4.623  10.496  0.00  0.00      CARB  
+ATOM    567  H5  BGLCC  30     -22.805  -4.717  11.523  0.00  0.00      CARB  
+ATOM    568  O5  BGLCC  30     -22.307  -4.510   9.513  0.00  0.00      CARB  
+ATOM    569  C2  BGLCC  30     -22.066  -2.222   9.546  0.00  0.00      CARB  
+ATOM    570  H2  BGLCC  30     -22.603  -2.058   8.557  0.00  0.00      CARB  
+ATOM    571  O2  BGLCC  30     -21.199  -1.128   9.527  0.00  0.00      CARB  
+ATOM    572  HO2 BGLCC  30     -21.749  -0.434   9.838  0.00  0.00      CARB  
+ATOM    573  C3  BGLCC  30     -23.190  -2.148  10.627  0.00  0.00      CARB  
+ATOM    574  H3  BGLCC  30     -22.520  -2.181  11.542  0.00  0.00      CARB  
+ATOM    575  O3  BGLCC  30     -23.936  -0.919  10.579  0.00  0.00      CARB  
+ATOM    576  HO3 BGLCC  30     -23.979  -0.571  11.458  0.00  0.00      CARB  
+ATOM    577  C4  BGLCC  30     -24.079  -3.309  10.524  0.00  0.00      CARB  
+ATOM    578  H4  BGLCC  30     -24.570  -3.256   9.478  0.00  0.00      CARB  
+ATOM    579  O4  BGLCC  30     -25.089  -3.337  11.526  0.00  0.00      CARB  
+ATOM    580  HO4 BGLCC  30     -25.914  -3.452  11.048  0.00  0.00      CARB  
+ATOM    581  C6  BGLCC  30     -24.117  -5.906  10.168  0.00  0.00      CARB  
+ATOM    582  H61 BGLCC  30     -25.000  -6.036  10.811  0.00  0.00      CARB  
+ATOM    583  H62 BGLCC  30     -24.540  -5.795   9.151  0.00  0.00      CARB  
+ATOM    584  O6  BGLCC  30     -23.320  -7.124  10.409  0.00  0.00      CARB  
+ATOM    585  HO6 BGLCC  30     -23.507  -7.421  11.291  0.00  0.00      CARB  
+END
